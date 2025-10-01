@@ -1,0 +1,232 @@
+Filename,True_Label,Predictions
+Byzantine Art\Andrei_Rublev_18.jpg,Byzantine Art,Abstract Expressionism
+Byzantine Art\Andrei_Rublev_27.jpg,Byzantine Art,Cubism
+Byzantine Art\Andrei_Rublev_28.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_33.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_35.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_37.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_4.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_6.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_60.jpg,Byzantine Art,Cubism
+Byzantine Art\Andrei_Rublev_61.jpg,Byzantine Art,Byzantine Art
+Byzantine Art\Andrei_Rublev_79.jpg,Byzantine Art,Impressionism
+Byzantine Art\Andrei_Rublev_8.jpg,Byzantine Art,Pop Art
+Byzantine Art\Andrei_Rublev_93.jpg,Byzantine Art,Byzantine Art
+Cubism\Pablo_Picasso_10.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_110.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_111.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_119.jpg,Cubism,Abstract Expressionism
+Cubism\Pablo_Picasso_138.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_141.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_147.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_156.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_166.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_167.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_168.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_181.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_187.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_191.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_199.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_2.jpg,Cubism,Abstract Expressionism
+Cubism\Pablo_Picasso_203.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_207.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_208.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_211.jpg,Cubism,Byzantine Art
+Cubism\Pablo_Picasso_214.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_226.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_227.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_236.jpg,Cubism,Abstract Expressionism
+Cubism\Pablo_Picasso_260.jpg,Cubism,Pop Art
+Cubism\Pablo_Picasso_267.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_273.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_274.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_276.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_290.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_299.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_308.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_309.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_314.jpg,Cubism,Pop Art
+Cubism\Pablo_Picasso_335.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_339.jpg,Cubism,Abstract Expressionism
+Cubism\Pablo_Picasso_357.jpg,Cubism,Pop Art
+Cubism\Pablo_Picasso_368.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_387.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_394.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_395.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_402.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_415.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_421.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_50.jpg,Cubism,Impressionism
+Cubism\Pablo_Picasso_55.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_58.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_64.jpg,Cubism,Cubism
+Cubism\Pablo_Picasso_77.jpg,Cubism,Cubism
+Expressionism\Amedeo_Modigliani_1.jpg,Expressionism,Pop Art
+Expressionism\Amedeo_Modigliani_117.jpg,Expressionism,Impressionism
+Expressionism\Amedeo_Modigliani_12.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_127.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_139.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_142.jpg,Expressionism,Impressionism
+Expressionism\Amedeo_Modigliani_155.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_174.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_22.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_23.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_54.jpg,Expressionism,Impressionism
+Expressionism\Amedeo_Modigliani_6.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_61.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_65.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_67.jpg,Expressionism,Impressionism
+Expressionism\Amedeo_Modigliani_70.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_72.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_73.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_81.jpg,Expressionism,Cubism
+Expressionism\Amedeo_Modigliani_82.jpg,Expressionism,Pop Art
+Expressionism\Amedeo_Modigliani_84.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_87.jpg,Expressionism,Expressionism
+Expressionism\Amedeo_Modigliani_93.jpg,Expressionism,Impressionism
+Impressionism\Alfred_Sisley_125.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_139.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_145.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_15.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_16.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_161.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_162.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_175.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_186.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_19.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_2.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_22.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_240.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_27.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_35.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_42.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_53.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_56.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_62.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_72.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_89.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_92.jpg,Impressionism,Impressionism
+Impressionism\Alfred_Sisley_95.jpg,Impressionism,Impressionism
+Impressionism\Claude_Monet_18.jpg,Impressionism,Abstract Expressionism
+Impressionism\Claude_Monet_19.jpg,Impressionism,Impressionism
+Impressionism\Claude_Monet_34.jpg,Impressionism,Impressionism
+Impressionism\Claude_Monet_46.jpg,Impressionism,Impressionism
+Impressionism\Claude_Monet_59.jpg,Impressionism,Expressionism
+Impressionism\Claude_Monet_6.jpg,Impressionism,Cubism
+Impressionism\Claude_Monet_7.jpg,Impressionism,Impressionism
+Impressionism\Claude_Monet_71.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_102.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_11.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_122.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_131.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_155.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_174.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_199.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_207.jpg,Impressionism,Pop Art
+Impressionism\Edgar_Degas_228.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_250.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_251.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_256.jpg,Impressionism,Abstract Expressionism
+Impressionism\Edgar_Degas_274.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_284.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_300.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_304.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_310.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_324.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_33.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_332.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_347.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_353.jpg,Impressionism,Abstract Expressionism
+Impressionism\Edgar_Degas_367.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_375.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_377.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_38.jpg,Impressionism,Expressionism
+Impressionism\Edgar_Degas_387.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_423.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_428.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_434.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_436.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_453.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_455.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_464.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_478.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_485.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_511.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_535.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_547.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_564.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_565.jpg,Impressionism,Abstract Expressionism
+Impressionism\Edgar_Degas_576.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_591.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_60.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_600.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_602.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_622.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_639.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_64.jpg,Impressionism,Pop Art
+Impressionism\Edgar_Degas_644.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_645.jpg,Impressionism,Cubism
+Impressionism\Edgar_Degas_653.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_661.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_681.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_685.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_687.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_695.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_80.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_84.jpg,Impressionism,Impressionism
+Impressionism\Edgar_Degas_88.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_120.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_126.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_127.jpg,Impressionism,Cubism
+Impressionism\Pierre-Auguste_Renoir_139.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_143.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_144.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_145.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_146.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_15.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_152.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_164.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_166.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_179.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_187.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_19.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_207.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_21.jpg,Impressionism,Cubism
+Impressionism\Pierre-Auguste_Renoir_216.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_218.jpg,Impressionism,Abstract Expressionism
+Impressionism\Pierre-Auguste_Renoir_222.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_228.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_234.jpg,Impressionism,Abstract Expressionism
+Impressionism\Pierre-Auguste_Renoir_269.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_271.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_275.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_285.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_295.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_300.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_302.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_316.jpg,Impressionism,Cubism
+Impressionism\Pierre-Auguste_Renoir_323.jpg,Impressionism,Cubism
+Impressionism\Pierre-Auguste_Renoir_335.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_42.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_62.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_70.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_72.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_84.jpg,Impressionism,Impressionism
+Impressionism\Pierre-Auguste_Renoir_87.jpg,Impressionism,Abstract Expressionism
+Impressionism\Pierre-Auguste_Renoir_91.jpg,Impressionism,Impressionism
+Pop Art\Andy_Warhol_110.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_126.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_134.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_142.jpg,Pop Art,Cubism
+Pop Art\Andy_Warhol_152.jpg,Pop Art,Cubism
+Pop Art\Andy_Warhol_161.jpg,Pop Art,Impressionism
+Pop Art\Andy_Warhol_170.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_181.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_5.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_50.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_66.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_70.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_75.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_88.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_95.jpg,Pop Art,Pop Art
+Pop Art\Andy_Warhol_97.jpg,Pop Art,Pop Art
