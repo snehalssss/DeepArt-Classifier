@@ -10,3 +10,4 @@ with ImageDataGenerator.
 Utilized TensorFlow, Keras, sklearn, and libraries like
 skimage and matplotlib for modeling, evaluation, and
 visualization tasks
+https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
